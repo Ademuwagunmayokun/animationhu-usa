@@ -1,0 +1,1 @@
+var e=`Animation Hub`,t=`Animation Hub`,n=e,r=t;export{r as n,n as t};
