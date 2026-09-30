@@ -1,1 +1,0 @@
-var e={clips:`alpha`,design:`alpha`,slides:`alpha`};function t(t){return t?e[t.trim().toLowerCase()]??`alpha`:`alpha`}export{t};

@@ -1,10 +1,10 @@
 {
-  "name": "App",
-  "short_name": "App",
-  "description": "Agent-native app starter ready to customize",
+  "name": "Animation Hub",
+  "short_name": "AnimationHub",
+  "description": "Animation Hub connects AI, technology, design, and operations.",
   "start_url": "./",
-  "background_color": "#111111",
-  "theme_color": "#18181B",
+  "background_color": "#050014",
+  "theme_color": "#050014",
   "icons": [
     {
       "src": "icon-192.svg",
